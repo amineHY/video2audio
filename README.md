@@ -14,9 +14,9 @@ This is a simple python project that take a youtube video/playlist URL and conve
 
 # Run the python script
 
-    ```bash
-    python video2audio.py
-    ```
+```bash
+python video2audio.py
+```
 the audio files should be saved in a new created folder `audio`.
 
 **Note**: You can edit the option of [youtube-dl](https://github.com/ytdl-org/youtube-dl) if you want.
