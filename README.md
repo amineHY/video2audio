@@ -4,7 +4,7 @@ This is a simple python project that take a youtube video/playlist URL and conve
 # prerequisites
 * From the base installation of python, install additionnal python packages
     ``` bash
-    pip install -r ffmpeg-python youtube-dl
+    pip3 install -r ffmpeg-python youtube-dl
     ```
 
 * You may also install `libav-tools` librairie
@@ -15,7 +15,7 @@ This is a simple python project that take a youtube video/playlist URL and conve
 # Run the python script
 
 ```bash
-python video2audio.py
+python3 video2audio.py
 ```
 the audio files should be saved in a new created folder `audio`.
 
